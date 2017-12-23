@@ -2,16 +2,16 @@
 
 ![png](plots/mysql.png)
 
-Project Objective: In this project, the goal was to understand basic sql queries
+<h3>Project Objective:</h3> In this project, the goal was to understand basic sql queries
 and explore the data in python using sql alchemy. 
 
-Tools Used: 
+<h3>Tools Used:</h3> 
 <ul>
 <li>Mysql</li>
 <li>Jupyter notebook</li>
 </ul>
 
-libraries used:
+<h3>libraries used:</h3>
 <ul>
 <li>sqlalchemy </li>
 <li>pandas </li>
@@ -89,22 +89,22 @@ The questions which were answered in this project are below:
 
 
 Plots
-
-Top five Genres by Gross Revenue
+<h3></h3>
+<h3>Top five Genres by Gross Revenue</h3>
 ![png](plots/output_5_0.png)
 
 
-Genres by Gross Revenue
+<h3>Genres by Gross Revenue</h3>
 ![png](plots/output_7_0.png)
-Total Count of Movies by Genres
+<h3>Total Count of Movies by Genres</h3>
 ![png](plots/output_12_0.png)
-Total Revenue by Store
+<h3>Total Revenue by Store</h3>
 ![png](plots/output_15_0.png)
-Top 10 most rented Movies
+<h3>Top 10 most rented Movies</h3>
 ![png](plots/output_18_0.png)
-Average Film Duration by GENRES
+<h3>Average Film Duration by GENRES</h3>
 ![png](plots/output_26_0.png)
-Top 15 Geo-Locations for Customers Based on Count of Sales 
+<h3>Top 15 Geo-Locations for Customers Based on Count of Sales</h3> 
 ![png](plots/Map.png)
 
 <h3><u>Insights</u></h3> 
@@ -123,6 +123,6 @@ A few insights from the skill database are the following:
 <li>Most of the customers for both stores come from India, China, and United States making up 10.02%, 8.85%, and 6.01% of sells based on customer purchases.</li> 
 </ul>
 
-More Insights into this data are located in  SQL_WORK.sql file
+<h3></h3>More Insights into this data are located in  SQL_WORK.sql file</h3>
 
 

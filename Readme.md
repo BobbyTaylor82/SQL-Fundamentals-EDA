@@ -7,9 +7,10 @@ and explore the data in python using sql alchemy.
 
 Tools Used: 
 <ul>
-  <li>Mysql<li>
+<li>Mysql<li>
 <li>Jupyter notebook</li>
 </ul>
+
 libraries used:
 <ul>
 <li>sqlalchemy </li>

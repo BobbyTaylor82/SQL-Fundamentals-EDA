@@ -1,4 +1,4 @@
-Project Title: SQL Fundaments & EDA
+<h3>Project Title: SQL Fundaments & EDA</h3>
 
 ![png](plots/mysql.png)
 
@@ -106,7 +106,8 @@ Average Film Duration by GENRES
 ![png](plots/output_26_0.png)
 Top 15 Geo-Locations for Customers Based on Count of Sales 
 ![png](plots/Map.png)
-<b>Insights</b> 
+
+<h3><u>Insights</u></h3> 
 
 A few insights from the skill database are the following:
 

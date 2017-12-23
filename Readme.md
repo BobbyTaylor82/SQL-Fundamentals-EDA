@@ -6,17 +6,19 @@ Project Objective: In this project, the goal was to understand basic sql queries
 and explore the data in python using sql alchemy. 
 
 Tools Used: 
-Mysql
-Jupyter notebook
-
+<ul>
+  <li>Mysql<li>
+<li>Jupyter notebook</li>
+</ul>
 libraries used:
-*sqlalchemy 
-*pandas 
-*numpy 
-*seaborn 
-*matplotlib
-*pymysql
-
+<ul>
+<li>sqlalchemy </li>
+<li>pandas </li>
+<li>numpy </li>
+<li>seaborn </li>
+<li>matplotlib</li>
+<li>pymysql</li>
+</ul>
 The questions which were answered in this project are below:
 
 * 1a. Display the first and last names of all actors from the table `actor`. 

@@ -88,8 +88,8 @@ The questions which were answered in this project are below:
 
 
 
-Plots
-<h3></h3>
+<h3>Plots</h3>
+
 <h3>Top five Genres by Gross Revenue</h3>
 ![png](plots/output_5_0.png)
 

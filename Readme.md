@@ -2,16 +2,16 @@
 
 ![png](plots/mysql.png)
 
-<h3>Project Objective:</h3> In this project, the goal was to understand basic sql queries
+Project Objective: In this project, the goal was to understand basic sql queries
 and explore the data in python using sql alchemy. 
 
-<h3>Tools Used:</h3> 
+Tools Used: 
 <ul>
 <li>Mysql</li>
 <li>Jupyter notebook</li>
 </ul>
 
-<h3>libraries used:</h3>
+libraries used:
 <ul>
 <li>sqlalchemy </li>
 <li>pandas </li>
@@ -90,21 +90,21 @@ The questions which were answered in this project are below:
 
 <h3>Plots</h3>
 
-<h3>Top five Genres by Gross Revenue</h3>
+Top five Genres by Gross Revenue
 ![png](plots/output_5_0.png)
 
 
-<h3>Genres by Gross Revenue</h3>
+Genres by Gross Revenue
 ![png](plots/output_7_0.png)
-<h3>Total Count of Movies by Genres</h3>
+Total Count of Movies by Genres
 ![png](plots/output_12_0.png)
-<h3>Total Revenue by Store</h3>
+Total Revenue by Store
 ![png](plots/output_15_0.png)
-<h3>Top 10 most rented Movies</h3>
+Top 10 most rented Movies
 ![png](plots/output_18_0.png)
-<h3>Average Film Duration by GENRES</h3>
+Average Film Duration by GENRES
 ![png](plots/output_26_0.png)
-<h3>Top 15 Geo-Locations for Customers Based on Count of Sales</h3> 
+Top 15 Geo-Locations for Customers Based on Count of Sales
 ![png](plots/Map.png)
 
 <h3><u>Insights</u></h3> 

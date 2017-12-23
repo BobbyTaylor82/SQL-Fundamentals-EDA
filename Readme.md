@@ -123,6 +123,6 @@ A few insights from the skill database are the following:
 <li>Most of the customers for both stores come from India, China, and United States making up 10.02%, 8.85%, and 6.01% of sells based on customer purchases.</li> 
 </ul>
 
-<h3></h3>More Insights into this data are located in  SQL_WORK.sql file</h3>
+<h3>More Insights into this data are located in  SQL_WORK.sql file</h3>
 
 

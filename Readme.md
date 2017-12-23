@@ -106,20 +106,21 @@ Average Film Duration by GENRES
 ![png](plots/output_26_0.png)
 Top 15 Geo-Locations for Customers Based on Count of Sales 
 ![png](plots/Map.png)
-Insights 
+<b>Insights</b> 
 
 A few insights from the skill database are the following:
 
-The top three genes by gross revenue are Sports, Sci-Fi, and Animation, respectively.
+<ul>
+<li>The top three genes by gross revenue are Sports, Sci-Fi, and Animation, respectively.</li> 
 
-There are two rental stores for this database. Revenue for Store 1 and Store 2 is approximately 33.4K and 33.9K, respectively.
+<li>There are two rental stores for this database. Revenue for Store 1 and Store 2 is approximately 33.4K and 33.9K, respectively.</li> 
 
-The top most rented move is Ridgemont Submarine.
+<li>The top most rented move is Ridgemont Submarine.</li> 
 
-When looking at average film rating by genre, you see that PG-13 movies on average are longer in this database. 
+<li>When looking at average film rating by genre, you see that PG-13 movies on average are longer in this database.</li>  
 
-Most of the customers for both stores come from India, China, and United States making up 10.02%, 8.85%, and 6.01% of sells based on customer purchases. 
-
+<li>Most of the customers for both stores come from India, China, and United States making up 10.02%, 8.85%, and 6.01% of sells based on customer purchases.</li> 
+</ul>
 
 More Insights into this data are located in  SQL_WORK.sql file
 

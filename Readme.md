@@ -9,6 +9,7 @@ Tools Used:
 <ul>
 <li>Mysql</li>
 <li>Jupyter notebook</li>
+<li> Tableau</li>
 </ul>
 
 libraries used:
